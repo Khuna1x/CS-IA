@@ -1,0 +1,5 @@
+{
+  "name": "HostelFinder",
+  "description": "A centralized lost-and-found tracking system for hostels. Features automated matching logic to connect lost items with found reports based on categories and locations.",
+  "requestFramePermissions": []
+}
